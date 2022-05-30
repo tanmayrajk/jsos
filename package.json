@@ -1,7 +1,7 @@
 {
   "name": "jsos",
   "version": "1.0.0",
-  "description": "os in js",
+  "description": "os in js, well kind of, not really",
   "main": "index.js",
   "type": "module",
   "scripts": {

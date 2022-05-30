@@ -2,7 +2,7 @@
 
 os made in js, well not really, but like y'know it's my project so i could name it whatever i want.
 
-## 💾 intallation
+## 💾 installation
 
 ```
 Clone the repo with git clone 'https://github.com/tanmayrajk/cleannote-extension.git'.
